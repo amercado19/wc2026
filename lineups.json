@@ -1,0 +1,23 @@
+{
+  "updated": "2026-06-24T17:00:00Z",
+  "note": "Starting XIs for imminent games. status: 'confirmed' (out ~75 min pre-kickoff) or 'predicted'. Refresh re-pulls this file and re-evaluates scorer/shots predictions to actual starters.",
+  "matches": {
+    "Switzerland v Canada": {
+      "status": "predicted",
+      "source": "RotoWire / SI / ESPN",
+      "updated": "2026-06-24T17:00:00Z",
+      "home": {
+        "team": "Switzerland",
+        "formation": "4-3-1-2",
+        "xi": ["Kobel", "Widmer", "Elvedi", "Akanji", "Rodriguez", "Aebischer", "Xhaka", "Freuler", "Manzambi", "Embolo", "Vargas"],
+        "out": ["Rieder (dropped to bench)"]
+      },
+      "away": {
+        "team": "Canada",
+        "formation": "4-4-2",
+        "xi": ["Crepeau", "Johnston", "Cornelius", "De Fougerolles", "Laryea", "Buchanan", "Saliba", "Eustaquio", "Ahmed", "David", "Larin"],
+        "out": ["Kone (broken leg, out for tournament)", "Davies (hamstring, unlikely to start)"]
+      }
+    }
+  }
+}
