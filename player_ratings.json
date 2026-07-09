@@ -1,0 +1,35 @@
+{
+  "source": "SofaScore",
+  "updated": "2026-07-09",
+  "note": "Per-game player match ratings (out of 10). Refresh re-pulls this file. Gathered per matchday from SofaScore.",
+  "players": [
+    {
+      "name": "Lionel Messi",
+      "team": "Argentina",
+      "games": [
+        {"g": "Group 1", "opp": "Algeria", "r": 10.0},
+        {"g": "Group 2", "opp": "Austria", "r": 9.2},
+        {"g": "Group 3", "opp": "Jordan", "r": 8.0},
+        {"g": "R16", "opp": "Egypt", "r": 9.3}
+      ]
+    },
+    {
+      "name": "Kylian Mbappe",
+      "team": "France",
+      "games": [
+        {"g": "Group 1", "opp": "Senegal", "r": 8.1},
+        {"g": "Group 2", "opp": "Iraq", "r": 9.2},
+        {"g": "Group 3", "opp": "Sweden", "r": 9.7},
+        {"g": "R16", "opp": "Paraguay", "r": 7.5}
+      ]
+    },
+    {
+      "name": "Lamine Yamal",
+      "team": "Spain",
+      "games": [
+        {"g": "Group", "opp": "Saudi Arabia", "r": 8.3},
+        {"g": "R16", "opp": "Portugal", "r": 7.5}
+      ]
+    }
+  ]
+}
