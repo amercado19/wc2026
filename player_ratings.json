@@ -1,77 +1,70 @@
 {
   "source": "SofaScore",
   "updated": "2026-07-09",
-  "note": "Per-game player match ratings (out of 10) for stars of teams still alive (quarterfinals). Some knockout entries are approximate where SofaScore only published an aggregate. Refresh re-pulls this file.",
+  "note": "Per-game player match ratings (out of 10) for two stars from each team still alive (quarterfinals). Some knockout entries are approximate where SofaScore published only an aggregate. Refresh re-pulls this file.",
   "players": [
-    {
-      "name": "Lionel Messi", "team": "Argentina",
-      "games": [
-        {"g": "Group 1", "opp": "Algeria", "r": 10.0},
-        {"g": "Group 2", "opp": "Austria", "r": 9.2},
-        {"g": "Group 3", "opp": "Jordan", "r": 8.0},
-        {"g": "R16", "opp": "Egypt", "r": 9.3}
-      ]
-    },
-    {
-      "name": "Kylian Mbappe", "team": "France",
-      "games": [
-        {"g": "Group 1", "opp": "Senegal", "r": 8.1},
-        {"g": "Group 2", "opp": "Iraq", "r": 9.2},
-        {"g": "Group 3", "opp": "Sweden", "r": 9.7},
-        {"g": "R16", "opp": "Paraguay", "r": 7.5}
-      ]
-    },
-    {
-      "name": "Jude Bellingham", "team": "England",
-      "games": [
-        {"g": "Group 1", "opp": "Panama", "r": 9.3},
-        {"g": "Group 2", "opp": "Croatia", "r": 7.7},
-        {"g": "R16", "opp": "Mexico", "r": 9.0}
-      ]
-    },
-    {
-      "name": "Erling Haaland", "team": "Norway",
-      "games": [
-        {"g": "Group 1", "opp": "Senegal", "r": 8.6},
-        {"g": "Group 2", "opp": "Iraq", "r": 8.1},
-        {"g": "R16", "opp": "Brazil", "r": 9.1}
-      ]
-    },
-    {
-      "name": "Rodri", "team": "Spain",
-      "games": [
-        {"g": "Group 1", "opp": "Cabo Verde", "r": 8.6},
-        {"g": "Group 2", "opp": "Saudi Arabia", "r": 8.3},
-        {"g": "Group 3", "opp": "Uruguay", "r": 7.5},
-        {"g": "R16", "opp": "Portugal", "r": 7.4}
-      ]
-    },
-    {
-      "name": "Lamine Yamal", "team": "Spain",
-      "games": [
-        {"g": "Group", "opp": "Saudi Arabia", "r": 8.3},
-        {"g": "R16", "opp": "Portugal", "r": 7.5}
-      ]
-    },
-    {
-      "name": "Achraf Hakimi", "team": "Morocco",
-      "games": [
-        {"g": "Groups (avg)", "opp": "Group I", "r": 8.0},
-        {"g": "R16", "opp": "Canada", "r": 7.4}
-      ]
-    },
-    {
-      "name": "Leandro Trossard", "team": "Belgium",
-      "games": [
-        {"g": "Group", "opp": "New Zealand", "r": 8.8},
-        {"g": "Knockout", "opp": "R16", "r": 7.1}
-      ]
-    },
-    {
-      "name": "Gregor Kobel", "team": "Switzerland",
-      "games": [
-        {"g": "R16", "opp": "Colombia", "r": 9.3}
-      ]
-    }
+    {"name": "Lionel Messi", "team": "Argentina", "games": [
+      {"g": "Group 1", "opp": "Algeria", "r": 10.0},
+      {"g": "Group 2", "opp": "Austria", "r": 9.2},
+      {"g": "Group 3", "opp": "Jordan", "r": 8.0},
+      {"g": "R16", "opp": "Egypt", "r": 9.3}]},
+    {"name": "Julian Alvarez", "team": "Argentina", "games": [
+      {"g": "Group (avg)", "opp": "Group J", "r": 7.4},
+      {"g": "R16", "opp": "Egypt", "r": 6.9}]},
+
+    {"name": "Kylian Mbappe", "team": "France", "games": [
+      {"g": "Group 1", "opp": "Senegal", "r": 8.1},
+      {"g": "Group 2", "opp": "Iraq", "r": 9.2},
+      {"g": "R32", "opp": "Sweden", "r": 9.7},
+      {"g": "R16", "opp": "Paraguay", "r": 7.5}]},
+    {"name": "Ousmane Dembele", "team": "France", "games": [
+      {"g": "Group 1", "opp": "Senegal", "r": 7.6},
+      {"g": "Group 2", "opp": "Iraq", "r": 7.8},
+      {"g": "Group 3", "opp": "Norway", "r": 10.0}]},
+
+    {"name": "Jude Bellingham", "team": "England", "games": [
+      {"g": "Group 1", "opp": "Panama", "r": 9.3},
+      {"g": "Group 2", "opp": "Croatia", "r": 7.7},
+      {"g": "R16", "opp": "Mexico", "r": 9.0}]},
+    {"name": "Harry Kane", "team": "England", "games": [
+      {"g": "Group", "opp": "Croatia", "r": 8.4},
+      {"g": "R32", "opp": "DR Congo", "r": 8.5}]},
+
+    {"name": "Erling Haaland", "team": "Norway", "games": [
+      {"g": "Group 1", "opp": "Senegal", "r": 8.6},
+      {"g": "Group 2", "opp": "Iraq", "r": 8.1},
+      {"g": "R16", "opp": "Brazil", "r": 9.1}]},
+    {"name": "Martin Odegaard", "team": "Norway", "games": [
+      {"g": "Group 3", "opp": "Cote d'Ivoire", "r": 6.9},
+      {"g": "R16", "opp": "Brazil", "r": 6.3}]},
+
+    {"name": "Rodri", "team": "Spain", "games": [
+      {"g": "Group 1", "opp": "Cabo Verde", "r": 8.6},
+      {"g": "Group 2", "opp": "Saudi Arabia", "r": 8.3},
+      {"g": "Group 3", "opp": "Uruguay", "r": 7.5},
+      {"g": "R16", "opp": "Portugal", "r": 7.4}]},
+    {"name": "Lamine Yamal", "team": "Spain", "games": [
+      {"g": "Group", "opp": "Saudi Arabia", "r": 8.3},
+      {"g": "R16", "opp": "Portugal", "r": 7.5}]},
+
+    {"name": "Achraf Hakimi", "team": "Morocco", "games": [
+      {"g": "Groups (avg)", "opp": "Group I", "r": 8.0},
+      {"g": "R16", "opp": "Canada", "r": 7.4}]},
+    {"name": "Brahim Diaz", "team": "Morocco", "games": [
+      {"g": "Group", "opp": "Group I", "r": 7.5},
+      {"g": "R16", "opp": "Canada", "r": 8.0}]},
+
+    {"name": "Leandro Trossard", "team": "Belgium", "games": [
+      {"g": "Group", "opp": "New Zealand", "r": 8.8},
+      {"g": "Knockout", "opp": "R16", "r": 7.1}]},
+    {"name": "Kevin De Bruyne", "team": "Belgium", "games": [
+      {"g": "Group", "opp": "Egypt/Iran", "r": 6.9},
+      {"g": "Group", "opp": "New Zealand", "r": 9.0}]},
+
+    {"name": "Gregor Kobel", "team": "Switzerland", "games": [
+      {"g": "R16", "opp": "Colombia", "r": 9.3}]},
+    {"name": "Breel Embolo", "team": "Switzerland", "games": [
+      {"g": "Group", "opp": "Group B", "r": 7.0},
+      {"g": "R16", "opp": "Colombia", "r": 6.4}]}
   ]
 }
